@@ -2,7 +2,7 @@
 
 # SQL-Project
 
-## Data Validation
+### Data Validation
 
 Counting the total number of cities in the U.S. serves as a baseline
 metric for demographic analysis. It helps in:
@@ -13,7 +13,7 @@ metric for demographic analysis. It helps in:
 
 <img width="448" alt="Screenshot 2025-02-24 at 16 03 12" src="https://github.com/user-attachments/assets/d4a39857-43f3-4231-a72e-8065a58de2d0" />
 
-## Data Analysis
+### Data Analysis
 
 Finding the country with the highest life expectancy is essential for public health research, policy-making, and resource allocation. It helps in:
 
@@ -23,7 +23,7 @@ Finding the country with the highest life expectancy is essential for public hea
 
 <img width="460" alt="Screenshot 2025-02-24 at 16 02 23" src="https://github.com/user-attachments/assets/f5be8157-30da-4591-b2b9-b0c6e585e360" />
 
-## Data Cleaning
+### Data Cleaning
 Comparing the populations of capital cities worldwide is essential for urban planning, economic analysis, and demographic research. It helps in:
 
 ✅Economic & Infrastructure Planning - Helps policymakers allocate resources effectively based on population density and growth.
